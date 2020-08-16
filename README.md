@@ -1,3 +1,5 @@
+# Google Data Studio Reports using Google Sheets along with Laravel in backend
+
 This repository hold the code base for the tutorial where I show how to use the Google's Sheet API to store data into the Google Sheets and also read data from Google Sheets. 
 
 And then, we link that data from Google Sheets to Google Data Studio to create stunning reports. 
